@@ -38,7 +38,7 @@ The **Smart Agriculture Dashboard** is a web application designed to help farmer
 - Visual representation of farm performance trends.
 
 ## Tech Stack
-- **Frontend**: React.js, Tailwind CSS
+- **Frontend**: React.js, converted Tailwind CSS class themes to CSS3.
 - **Icons**: Lucide-React
 - **State Management**: React Context API
 
@@ -82,7 +82,7 @@ The **Smart Agriculture Dashboard** is a web application designed to help farmer
 Contributions are welcome! Please create an issue or submit a pull request if you find any bugs or have feature suggestions.
 
 ## License
-This project is licensed under the **MIT License**.
+This project is under **NO License**.
 
 ---
 ### Developed by Mounish JV
